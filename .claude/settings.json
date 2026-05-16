@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python trian.py --mode baseline)",
+      "Bash(python predict.py --mode baseline)"
+    ]
+  }
+}
